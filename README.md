@@ -1,4 +1,4 @@
-<h1 align="center">Olá👋Como vai? </br> Conheça minha Stack:</h1>
+<h1 align="start">Olá👋Como vai? </br> Conheça minha Stack:</h1>
 
 ###
 
