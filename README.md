@@ -27,7 +27,7 @@
     <td width="100%" align="left" valign="top">
       <strong>⚙️ Backend &amp; linguagens</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=nodejs,ts,js,fastify,express,nestjs&amp;theme=dark" alt="Node.js, TypeScript, JavaScript, Fastify, Express e NestJS" />
+      <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,nestjs&amp;theme=dark" alt="Node.js, TypeScript, JavaScript, Fastify, Express e NestJS" />
     </td>
   </tr>
   <tr>
