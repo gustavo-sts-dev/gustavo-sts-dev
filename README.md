@@ -3,7 +3,7 @@
   <img
     width="100%"
     alt="Banner de Gustavo — Backend, Node.js e TypeScript"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:123B66,100:00B8D9&amp;height=220&amp;section=header&amp;text=Gustavo&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlign=17&amp;fontAlignY=35&amp;desc=BACKEND%20%7C%20NODE.JS%20%7C%20TYPESCRIPT&amp;descSize=19&amp;descAlign=21&amp;descAlignY=57&amp;animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:123B66,100:00B8D9&amp;height=220&amp;section=header&amp;text=Gustavo&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlign=17&amp;fontAlignY=35&amp;desc=FULLSTACK%20%7C%20NODE.JS%20%7C%20TYPESCRIPT&amp;descSize=19&amp;descAlign=21&amp;descAlignY=57&amp;animation=fadeIn"
   />
 </div><h3 align="left">Engenharia de software com segurança e performance desde a concepção.</h3><p align="left">
   <img src="https://img.shields.io/badge/FOCO-BACKEND-00B8D9?style=for-the-badge&amp;labelColor=0D1117" alt="Foco em backend" />
