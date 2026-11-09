@@ -1,10 +1,6 @@
 <!-- Perfil GitHub: Gustavo | Layout alinhado integralmente à esquerda -->
 <!-- O GitHub limita CSS customizado. Este README usa HTML, tabelas, badges e imagens externas. --><div align="left">
-  <img
-    width="100%"
-    alt="Banner de Gustavo — Backend, Node.js e TypeScript"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:123B66,100:00B8D9&amp;height=220&amp;section=header&amp;text=Gustavo&amp;fontSize=58&amp;fontColor=FFFFFF&amp;fontAlign=17&amp;fontAlignY=35&amp;desc=FULLSTACK%20%7C%20NODE.JS%20%7C%20TYPESCRIPT&amp;descSize=19&amp;descAlign=22&amp;descAlignY=57&amp;animation=fadeIn"
-  />
+<h1>Gustavo da Silva Santos | Desenvolvedor Fullstack</h1>
 </div><h3 align="left">Engenharia de software com segurança e performance desde a concepção.</h3><p align="left">
   <img src="https://img.shields.io/badge/FOCO-FULLSTACK-00B8D9?style=for-the-badge&amp;labelColor=0D1117" alt="Foco em backend" />
   <img src="https://img.shields.io/badge/ECOSSISTEMA-NODE.JS-339933?style=for-the-badge&amp;labelColor=0D1117" alt="Ecossistema Node.js" />
@@ -120,9 +116,3 @@
 <hr /><p align="left">
   <strong>Aberto a oportunidades de estágio e desenvolvimento júnior backend/full-stack com Node.js.</strong>
 </p><div align="left">
-  <img
-    width="100%"
-    alt="Rodapé em ondas azul-escuro e ciano"
-    src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0D1117,50:123B66,100:00B8D9&amp;height=100&amp;section=footer"
-  />
-</div>
